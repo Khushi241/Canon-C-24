@@ -1,1 +1,2 @@
-# Canon-C-24
+First Stage of the CannonBall Game...
+hehehehe
